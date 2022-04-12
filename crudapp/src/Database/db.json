@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Ram",
+      "username": "Raghav",
+      "email": "abc@gmail.com",
+      "phone": "000",
+      "id": 1
+    },
+    {
+      "name": "Madhawi kumari",
+      "username": "madhawiiii",
+      "email": "xyz@gmail.com",
+      "phone": "09999998888",
+      "id": 2
+    },
+    {
+      "name": "virat kholi",
+      "username": "viratanu",
+      "email": "vr@gmail.com",
+      "phone": "888888888",
+      "id": 3
+    },
+    {
+      "name": "muskan rajput",
+      "username": "muskanR",
+      "email": "wre@gmail.com",
+      "phone": "666666666",
+      "id": 4
+    }
+  ]
+}
